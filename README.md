@@ -1,6 +1,6 @@
 # Introduction COVID-19 Tracker
 
-<a href="https://swapnil031.github.io/covid19_react/"><B><U>Live Demo - COVID-19 Tracker</U></B></a> 
+<a href="https://swapnil031.github.io/covid19_react/"><B><u>Live Demo - COVID-19 Tracker</u></B></a> 
 
 A web application which helps in keeping track of number of total cases, recovered cases and number of deaths due to COVID-19. 
 
