@@ -1,6 +1,6 @@
-### COVID-19 Tracker
+# COVID-19 Tracker
 
-# Introduction 
+## Introduction 
 
 <a href="https://swapnil031.github.io/covid19_react/"><u><B>Live Demo - COVID-19 Tracker</B></u></a> 
 
