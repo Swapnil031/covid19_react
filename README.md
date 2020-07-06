@@ -1,6 +1,7 @@
 # Introduction COVID-19 Tracker
 
 <a href=""><B>Live Demo</a> - COVID-19 Tracker</B> 
+
 A web application which helps in keeping track of number of total cases, recovered cases and number of deaths due to COVID-19. 
 
 The application fetches live data from API and plots graphs for the number of cases. Records for individual countries can also be visualized.
