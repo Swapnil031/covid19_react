@@ -7,7 +7,7 @@ The application fetches live data from API and plots graphs for the number of ca
 
 Here I have used React for developing the application, Chart.JS for plotting graphs and Material UI for importing UI elements.
 
-###React
+<a href=""><B>React</B></a>
 An open-source JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies and used as a base in the development of single-page or mobile applications.
 
 ### Chart.JS
