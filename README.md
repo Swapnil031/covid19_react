@@ -16,7 +16,11 @@ Here I have used React for developing the application, Chart.JS for plotting gra
 
 <a href="https://material-ui.com/"><B>Material UI</a> - </B> A popular React framework providing components for faster and easier web development. 
 
+
+
 As a beginner, I undertook and completed this project to have a strong understanding of React's workflow and the use of hooks.
+
+
 
 Video Tutorial for reference - https://www.youtube.com/watch?v=khJlrj3Y6Ls
 
