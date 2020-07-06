@@ -1,6 +1,6 @@
 # Introduction COVID-19 Tracker
 
-<a href=""><B>Live Demo</a> - COVID-19 Tracker</B> 
+<a href=""><B>Live Demo - COVID-19 Tracker</B></a> 
 
 A web application which helps in keeping track of number of total cases, recovered cases and number of deaths due to COVID-19. 
 
