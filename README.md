@@ -1,68 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID-19 Tracker
 
-## Available Scripts
+## Introduction
+A web application which helps in keeping track of number of total cases, recovered cases and number of deaths due to COVID-19. 
 
-In the project directory, you can run:
+The application fetches live data from API and plots graphs for the number of cases. Records for individual countries can also be visualized.
 
-### `npm start`
+Here I have used React for developing the application, Chart.JS for plotting graphs and Material UI for importing UI elements.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### React - An open-source JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies and used as a base in the development of single-page or mobile applications.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Chart.JS - It is an open source JavaScript library on Github that allows you to draw different types of charts by using the HTML5 canvas element. 
 
-### `npm test`
+### Material UI - A popular React framework providing components for faster and easier web development. 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+As a beginner, I undertook and completed this project to have a strong understanding of React's workflow and the use of hooks.
 
-### `npm run build`
+Video Tutorial for reference - 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+API used: https://covid19.mathdro.id/api
