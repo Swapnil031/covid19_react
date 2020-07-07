@@ -18,7 +18,7 @@ Here I have used React for developing the application, Chart.JS for plotting gra
 
 
 
-As a beginner, I undertook and completed this project to have a strong understanding of React's workflow and the use of hooks.
+As a beginner, I undertook and completed this project to gain a strong understanding of React's workflow and the use of hooks.
 
 
 
