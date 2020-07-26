@@ -22,6 +22,6 @@ As a beginner, I undertook and completed this project to gain a strong understan
 
 
 
-Video Tutorial for reference - https://www.youtube.com/watch?v=khJlrj3Y6Ls
+*Video Tutorial for reference - https://www.youtube.com/watch?v=khJlrj3Y6Ls*
 
-API used for data: https://covid19.mathdro.id/api
+*API used for data: https://covid19.mathdro.id/api*
